@@ -171,6 +171,8 @@ def trip_duration_stats(df):
 
 #block 6
 
+"Statistical block"
+
 def user_stats(df, city):
     """Displays statistics on bikeshare users."""
 
@@ -207,6 +209,8 @@ def user_stats(df, city):
 
 
 #block7
+
+"Final Block"
 
 def main():
     city=()
