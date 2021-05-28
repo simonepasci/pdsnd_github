@@ -4,7 +4,7 @@
 05/28/2021
 
 ### Project Title
-Udacity Project Bike Sharing in US cities
+Udacity Project Bike Sharing in US cities like Chicago, New York, Washington
 
 ### Description
 the project analyses the major trends in three big US cities in a range on months and days.
